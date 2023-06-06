@@ -9,7 +9,6 @@
     "serve": "npx backlight@latest serve AiDbGtXulXwY8H4V4bb8 --open"
   },
   "dependencies": {
-    "@divriots/style-dictionary-to-figma": "^0.4.0",
     "react": "^17.0.2",
     "react-native": "^0.65.1",
     "react-native-paper": "^4.9.2"
